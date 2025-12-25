@@ -172,8 +172,8 @@ rag-knowledge-assistant/
 
 | Version | Link |
 |---------|------|
-| **Simple RAG** | [Coming Soon](#) |
-| **Advanced RAG** | [Coming Soon](#) |
+| **Simple RAG** | [LINK]([https://rag-knowledge-assistant-ahwodv2q6do5iuux8zktwb.streamlit.app/] |
+| **Advanced RAG** | [Coming Soon]() |
 
 ---
 
